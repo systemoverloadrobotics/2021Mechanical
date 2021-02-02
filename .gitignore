@@ -1,2 +1,9 @@
+### Directories ###
+/Robot_CAD/Interface Library/*
 
+
+### macOS ###
+# General
 .DS_Store
+.AppleDouble
+.LSOverride
